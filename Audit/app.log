@@ -1,0 +1,44 @@
+2023-10-15 12:54:05,781 - basicLogger - INFO - Retrieving augment at index 0
+2023-10-15 12:54:18,834 - basicLogger - INFO - Retrieving augment at index 200
+2023-10-15 12:54:32,885 - basicLogger - INFO - Retrieving augment at index 200000
+2023-10-15 12:58:52,750 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-15 12:58:59,661 - basicLogger - INFO - Retrieving augment at index 1000000
+2023-10-15 12:59:00,882 - basicLogger - ERROR - Could not find augment at index 1000000
+2023-10-15 12:59:06,041 - basicLogger - INFO - Retrieving augment at index 0
+2023-10-15 12:59:12,056 - basicLogger - INFO - Retrieving augment at index 1
+2023-10-15 12:59:24,947 - basicLogger - INFO - Retrieving augment at index 250
+2023-10-15 12:59:26,170 - basicLogger - ERROR - Could not find augment at index 250
+2023-10-15 12:59:30,386 - basicLogger - INFO - Retrieving augment at index 200
+2023-10-15 12:59:31,613 - basicLogger - ERROR - Could not find augment at index 200
+2023-10-15 12:59:36,983 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-15 12:59:44,564 - basicLogger - INFO - Retrieving augment at index 101
+2023-10-15 12:59:48,733 - basicLogger - INFO - Retrieving augment at index 150
+2023-10-15 12:59:49,967 - basicLogger - ERROR - Could not find augment at index 150
+2023-10-15 13:00:17,963 - basicLogger - INFO - Retrieving unit at index 0
+2023-10-15 13:09:02,925 - basicLogger - INFO - Retrieving unit at index 0
+2023-10-15 13:09:16,333 - basicLogger - INFO - Retrieving augment at index 0
+2023-10-15 13:09:23,091 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-15 13:09:24,313 - basicLogger - ERROR - Could not find augment at index 100
+2023-10-15 13:09:29,481 - basicLogger - INFO - Retrieving unit at index 100
+2023-10-15 13:09:30,717 - basicLogger - ERROR - Could not find unit at index 100
+2023-10-15 13:09:37,044 - basicLogger - INFO - Retrieving unit at index 1
+2023-10-15 13:09:38,671 - basicLogger - INFO - Retrieving unit at index 1
+2023-10-15 13:09:40,865 - basicLogger - INFO - Retrieving unit at index 2
+2023-10-15 13:09:43,860 - basicLogger - INFO - Retrieving unit at index 3
+2023-10-16 21:45:55,059 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-16 21:46:29,223 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-16 21:46:40,775 - basicLogger - INFO - Retrieving augment at index 200
+2023-10-16 21:46:42,075 - basicLogger - ERROR - Could not find augment at index 200
+2023-10-17 08:36:26,555 - basicLogger - INFO - Retrieving augment at index 1
+2023-10-17 09:30:50,592 - basicLogger - INFO - Retrieving augment at index 0
+2023-10-17 09:31:02,614 - basicLogger - INFO - Retrieving unit at index 0
+2023-10-17 09:31:12,029 - basicLogger - INFO - Retrieving augment at index 500
+2023-10-17 09:31:13,214 - basicLogger - ERROR - Could not find augment at index 500
+2023-10-17 09:31:24,427 - basicLogger - INFO - Retrieving augment at index 100
+2023-10-17 09:31:25,601 - basicLogger - ERROR - Could not find augment at index 100
+2023-10-17 09:31:32,234 - basicLogger - INFO - Retrieving augment at index 50
+2023-10-17 09:31:33,432 - basicLogger - ERROR - Could not find augment at index 50
+2023-10-17 09:31:39,011 - basicLogger - INFO - Retrieving augment at index 49
+2023-10-17 09:31:45,115 - basicLogger - INFO - Retrieving unit at index 49
+2023-10-17 09:31:49,257 - basicLogger - INFO - Retrieving unit at index 50
+2023-10-17 09:31:50,425 - basicLogger - ERROR - Could not find unit at index 50

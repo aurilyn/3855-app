@@ -1,0 +1,138 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API gives information on Augments, Units and Items
+  version: "1.0.0"
+  title: TFT Stats API
+  contact:
+    email: you@your-company.com
+paths:
+  /stats:
+    get:
+      tags:
+        - stats of units and augment
+      summary: Get event stats
+      operationId: processing.get_stats
+      description: Gets units and augment processed statistic
+      responses:
+        '200':
+          description: Successfully returned a list of units
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TFTStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    augment:
+      type: object
+      required:
+        - augment_id
+        - name
+        - rarity
+        - placement
+        - stage_picked
+        - winrate
+        - trace_id
+      properties:
+        augment_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Built Different II
+        rarity:
+          type: string
+          example: Gold
+        placement:
+          type: number
+          example: 4.12
+        stage_picked:
+          type: string
+          example: 2-1
+        winrate:
+          type: number
+          example: 0.11
+        trace_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+    unit:
+      required:
+        - unit_id
+        - name
+        - buy_cost
+        - sell_cost
+        - rarity
+        - ability_name
+        - stars
+        - trace_id
+      properties:
+        unit_id:
+          type: string
+          format: uuid
+          example: 9e62a274-5afc-11ee-8c99-0242ac120002
+        name:
+          type: string
+          example: Zeri
+        buy_cost:
+          type: integer
+          example: 4
+        sell_cost:
+          type: integer
+          example: 4
+        rarity:
+          type: string
+          example: purple
+        ability_name:
+          type: string
+          example: Surge
+        stars:
+          type: integer
+          example: 1
+        trade_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      type: object
+    TFTStats:
+      required:
+        - highest_augment_placement
+        - lowest_augment_placement
+        - highest_champion_cost
+        - lowest_champion_cost
+        - total_amount_of_data
+        - total_augment
+        - total_unit
+      properties:
+        highest_augment_placement:
+          type: integer 
+          example: 8
+        total_augment:
+          type: integer
+          example: 200
+        total_unit:
+          type: integer
+          example: 200
+        lowest_augment_placement:
+          type: integer
+          example: 1
+        highest_champion_cost:
+          type: integer
+          example: 8
+        lowest_champion_cost:
+          type: integer
+          example: 1
+        total_amount of_data:
+          type: integer
+          example: 2500
+      type: object

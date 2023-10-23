@@ -1,0 +1,184 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API gives information on Augments, Units and Items
+  version: "1.0.0"
+  title: TFT Stats API
+  contact:
+    email: you@your-company.com
+paths:
+  /augment:
+    post:
+      tags:
+        - augment
+      summary: adds multiple statistic on the augment and other information
+      operationId: storage.post_augment_stats
+      description: |
+        adds augment's pick rate, placement, rarity, units that are used the most with
+        and win rate with the augment based on each stage of the game
+      responses:
+        '200':
+          description: augment are created and stats are added
+        '400':
+          description: augment stats are not added or augment is invalid
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/augment'
+        description: Reading item to add
+    get:
+      tags:
+        - augment
+      summary: gets info on an augment
+      operationId: storage.get_augment_stats
+      description: Gets augment data added after a timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: limits the number on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2016-08-29T09:12:33.001Z'
+      responses:
+        '200':
+          description: Successfully returned an augment name
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/augment'
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /unit:
+    post:
+      tags:
+        - champions
+      summary: adds unit, along with their cost and skills and other numbers
+      operationId: storage.post_units
+      description: |
+          creates the unit adding basic information of the unit
+      responses:
+        '200':
+          description: champion is created
+        '400':
+          description: champion cannot be created
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/unit'
+        description: Reading champion to add
+    get:
+      tags:
+        - champions
+      summary: gets info on an unit
+      operationId: storage.get_units
+      description: Gets unit data added after a timestamp
+      parameters:
+        - name: timestamp
+          in: query
+          description: limits the number on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2016-08-29T09:12:33.001Z'
+      responses:
+        '200':
+          description: Successfully returned an unit name
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/unit'
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string     
+components:
+  schemas:
+    augment:
+      type: object
+      required:
+        - augment_id
+        - name
+        - rarity
+        - placement
+        - stage_picked
+        - winrate
+        - trace_id
+      properties:
+        augment_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Built Different II
+        rarity:
+          type: string
+          example: Gold
+        placement:
+          type: number
+          example: 4.12
+        stage_picked:
+          type: string
+          example: 2-1
+        winrate:
+          type: number
+          example: 0.11
+        trace_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+    unit:
+      required:
+        - unit_id
+        - name
+        - buy_cost
+        - sell_cost
+        - rarity
+        - ability_name
+        - stars
+        - trace_id
+      properties:
+        unit_id:
+          type: string
+          format: uuid
+          example: 9e62a274-5afc-11ee-8c99-0242ac120002
+        name:
+          type: string
+          example: Zeri
+        buy_cost:
+          type: integer
+          example: 4
+        sell_cost:
+          type: integer
+          example: 4
+        rarity:
+          type: string
+          example: purple
+        ability_name:
+          type: string
+          example: Surge
+        stars:
+          type: integer
+          example: 1
+        trade_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      type: object

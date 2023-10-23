@@ -1,0 +1,164 @@
+openapi: 3.0.0
+servers: []
+info:
+  description: This API gives information on Augments, Units and Items
+  version: "1.0.0"
+  title: TFT Stats API
+  contact:
+    email: you@your-company.com
+paths:
+  /augment:
+    get:
+      tags:
+        - augment
+      summary: gets info on an augment from history
+      operationId: audit.get_augment_stats
+      description: Gets augment data from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the augment at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned an augment name
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/augment'
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /unit:
+    get:
+      tags:
+        - champions
+      summary: gets info on an unit
+      operationId: audit.get_units
+      description: Gets the unit data from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the unit at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned an unit name
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/unit'
+        '400':
+          description: Invalid Request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string   
+        '404':
+          description: Not found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string  
+components:
+  schemas:
+    augment:
+      type: object
+      required:
+        - augment_id
+        - name
+        - rarity
+        - placement
+        - stage_picked
+        - winrate
+        - trace_id
+      properties:
+        augment_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: Built Different II
+        rarity:
+          type: string
+          example: Gold
+        placement:
+          type: number
+          example: 4.12
+        stage_picked:
+          type: string
+          example: 2-1
+        winrate:
+          type: number
+          example: 0.11
+        trace_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+    unit:
+      required:
+        - unit_id
+        - name
+        - buy_cost
+        - sell_cost
+        - rarity
+        - ability_name
+        - stars
+        - trace_id
+      properties:
+        unit_id:
+          type: string
+          format: uuid
+          example: 9e62a274-5afc-11ee-8c99-0242ac120002
+        name:
+          type: string
+          example: Zeri
+        buy_cost:
+          type: integer
+          example: 4
+        sell_cost:
+          type: integer
+          example: 4
+        rarity:
+          type: string
+          example: purple
+        ability_name:
+          type: string
+          example: Surge
+        stars:
+          type: integer
+          example: 1
+        trade_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+      type: object

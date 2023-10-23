@@ -1,0 +1,1389 @@
+2023-10-09 15:26:08,252 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:26:13,260 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:26:18,260 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:26:28,376 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:26:33,364 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:26:38,362 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:36:48,968 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:36:53,962 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:36:58,962 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:37:03,968 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:37:08,960 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:37:35,150 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:37:40,159 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:45:09,189 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:45:13,262 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:13,263 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:14,197 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:45:18,267 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:18,267 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:19,192 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:45:23,250 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:23,250 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:24,185 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:45:28,226 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:45:28,226 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:46:10,667 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:46:15,666 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:49:25,003 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:49:29,073 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:49:29,074 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:49:30,008 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:49:34,095 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:49:34,096 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:49:35,008 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:49:39,071 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:49:39,071 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:54:23,958 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:54:28,042 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:54:28,043 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:54:28,957 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:54:33,037 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:54:33,037 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 15:55:05,642 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:55:10,645 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:55:15,632 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:55:38,727 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:55:43,734 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:56:47,289 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:56:52,287 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:58:37,987 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:58:42,991 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:21,063 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:26,056 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:31,066 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:36,066 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:41,057 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:46,064 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:51,051 - basicLogger - INFO - Periodic processing has started
+2023-10-09 15:59:56,055 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:01,060 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:06,063 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:11,059 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:16,055 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:21,055 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:26,066 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:31,053 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:36,066 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:41,058 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:46,060 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:51,052 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:00:56,061 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:01:01,058 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:01:13,663 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:01:18,668 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:05:07,746 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:05:12,740 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:09:25,170 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:09:30,175 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:09:35,173 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:11:16,303 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:11:20,396 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:11:20,397 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:11:21,301 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:11:25,396 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:11:25,397 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:11:26,302 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:11:30,386 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:11:30,386 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:11:31,297 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:11:35,393 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:11:35,393 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:12:47,026 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:12:51,132 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:12:51,132 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:17:56,938 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:18:01,952 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:19:44,926 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:19:50,108 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:19:50,108 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:20:52,841 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:20:56,921 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:20:56,922 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:20:57,831 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:21:01,952 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:21:01,953 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:21:02,835 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:21:06,906 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:21:06,906 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:21:40,535 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:21:44,642 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:21:45,536 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:21:49,613 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:23:27,344 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:23:31,433 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:23:31,434 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:23:31,434 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:23:32,352 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:23:36,454 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:23:36,454 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:23:36,454 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:28:36,456 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:28:40,548 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:28:40,549 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:28:41,450 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:28:45,528 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:28:45,529 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:28:58,460 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:29:02,563 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:29:02,564 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:29:03,460 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:29:07,567 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:29:07,567 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:30:28,445 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:30:32,538 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:30:32,539 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:30:32,539 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:30:33,451 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:30:37,542 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:30:37,542 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:30:37,543 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:30:38,446 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:30:42,512 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:30:42,513 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:30:42,514 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:32:20,876 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:32:25,877 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:32:45,852 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:32:50,851 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:33:47,322 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:33:51,422 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:33:51,422 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:33:52,329 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:33:56,426 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 16:33:56,426 - basicLogger - ERROR - Did not get a 200 response code
+2023-10-09 16:35:25,539 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:35:29,660 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:35:29,661 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:35:29,662 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:35:30,546 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:35:34,648 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:34,648 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:34,649 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:35:35,547 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:35:39,617 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:39,617 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:39,618 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:35:40,546 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:35:44,611 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:44,611 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:44,612 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:35:45,553 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:35:49,643 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:49,643 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:35:49,643 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:36:11,095 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:36:15,172 - basicLogger - INFO - Amount of data: 16002
+2023-10-09 16:36:15,173 - basicLogger - INFO - Amount of data: 16166
+2023-10-09 16:36:15,174 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:36:16,102 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:36:20,173 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:20,174 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:20,175 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:36:21,095 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:36:25,183 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:25,184 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:25,184 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:36:26,101 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:36:30,173 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:30,174 - basicLogger - INFO - Amount of data: 3
+2023-10-09 16:36:30,175 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:39:21,887 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:39:25,978 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 16:39:25,979 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 16:39:25,979 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T16:39:21.888Z'}
+2023-10-09 16:39:25,980 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:39:26,883 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:39:30,974 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 16:39:30,974 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 16:39:30,975 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T16:39:26.883Z'}
+2023-10-09 16:39:30,976 - basicLogger - INFO - Processing period has ended
+2023-10-09 16:39:31,877 - basicLogger - INFO - Periodic processing has started
+2023-10-09 16:39:35,970 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 16:39:35,971 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 16:39:35,971 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T16:39:31.877Z'}
+2023-10-09 16:39:35,972 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:13:44,382 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:13:48,477 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:13:48,478 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:13:48,479 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:13:44.383Z'}
+2023-10-09 17:13:48,480 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:13:49,389 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:13:53,469 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:13:53,470 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:13:53,470 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:13:49.390Z'}
+2023-10-09 17:13:53,472 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:13:54,381 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:13:58,496 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:13:58,497 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:13:58,497 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:13:54.381Z'}
+2023-10-09 17:13:58,499 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:13:59,396 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:14:03,494 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:14:03,494 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:14:03,495 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:13:59.396Z'}
+2023-10-09 17:14:03,495 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:14:04,393 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:14:08,454 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:14:08,454 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:14:08,454 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:14:04.393Z'}
+2023-10-09 17:14:08,457 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:14:09,388 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:14:13,483 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:14:13,483 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:14:13,484 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:14:09.388Z'}
+2023-10-09 17:14:13,485 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:27,253 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:31,348 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:31,348 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:31,349 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:27.253Z'}
+2023-10-09 17:19:31,349 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:32,247 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:35,837 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:19:36,335 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:36,336 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:36,336 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:32.247Z'}
+2023-10-09 17:19:36,337 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:37,250 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:41,364 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:41,365 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:41,365 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:37.250Z'}
+2023-10-09 17:19:41,366 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:42,246 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:46,343 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:46,344 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:46,344 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:42.247Z'}
+2023-10-09 17:19:46,345 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:47,258 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:51,349 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:51,350 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:51,350 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:47.258Z'}
+2023-10-09 17:19:51,351 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:52,252 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:19:56,351 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:19:56,352 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:19:56,352 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:52.252Z'}
+2023-10-09 17:19:56,353 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:19:57,252 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:01,335 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:01,336 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:01,336 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:19:57.252Z'}
+2023-10-09 17:20:01,337 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:02,250 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:06,338 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:06,339 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:06,340 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:02.251Z'}
+2023-10-09 17:20:06,340 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:07,253 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:11,332 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:11,332 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:11,333 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:07.254Z'}
+2023-10-09 17:20:11,334 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:12,246 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:16,321 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:16,322 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:16,322 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:12.247Z'}
+2023-10-09 17:20:16,323 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:17,250 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:21,323 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:21,324 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:21,324 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:17.251Z'}
+2023-10-09 17:20:21,325 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:22,253 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:26,357 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:26,357 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:26,357 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:22.253Z'}
+2023-10-09 17:20:26,359 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:27,244 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:31,314 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:31,314 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:31,315 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:27.244Z'}
+2023-10-09 17:20:31,316 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:32,245 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:36,346 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:36,347 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:36,347 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:32.245Z'}
+2023-10-09 17:20:36,349 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:37,250 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:41,347 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:41,348 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:41,348 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:37.250Z'}
+2023-10-09 17:20:41,349 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:42,257 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:46,365 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:46,367 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:46,367 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:42.257Z'}
+2023-10-09 17:20:46,367 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:47,254 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:51,339 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:51,340 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:51,340 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:47.255Z'}
+2023-10-09 17:20:51,342 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:52,254 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:20:56,338 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:20:56,338 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:20:56,338 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:52.254Z'}
+2023-10-09 17:20:56,340 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:20:57,254 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:01,314 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:01,314 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:01,315 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:20:57.254Z'}
+2023-10-09 17:21:01,316 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:02,247 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:06,335 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:06,336 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:06,336 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:02.248Z'}
+2023-10-09 17:21:06,337 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:07,251 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:11,346 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:11,346 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:11,347 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:07.251Z'}
+2023-10-09 17:21:11,348 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:12,248 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:16,337 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:16,337 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:16,337 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:12.248Z'}
+2023-10-09 17:21:16,339 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:17,256 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:21,362 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:21,363 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:21,363 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:17.256Z'}
+2023-10-09 17:21:21,364 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:22,248 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:26,313 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:26,313 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:26,313 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:22.248Z'}
+2023-10-09 17:21:26,314 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:27,257 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:31,337 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:31,337 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:31,339 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:27.257Z'}
+2023-10-09 17:21:31,339 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:32,252 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:36,340 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:36,340 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:36,341 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:32.252Z'}
+2023-10-09 17:21:36,342 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:37,254 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:41,352 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:41,353 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:41,353 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:37.254Z'}
+2023-10-09 17:21:41,354 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:42,251 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:46,345 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:46,346 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:46,346 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:42.252Z'}
+2023-10-09 17:21:46,347 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:47,244 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:51,341 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:51,341 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:51,341 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:47.244Z'}
+2023-10-09 17:21:51,342 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:52,254 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:21:56,371 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:21:56,371 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:21:56,372 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:52.254Z'}
+2023-10-09 17:21:56,373 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:21:57,257 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:01,368 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:01,369 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:01,369 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:21:57.257Z'}
+2023-10-09 17:22:01,370 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:02,250 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:06,346 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:06,347 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:06,347 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:02.250Z'}
+2023-10-09 17:22:06,348 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:07,247 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:11,357 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:11,357 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:11,358 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:07.247Z'}
+2023-10-09 17:22:11,360 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:12,256 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:16,336 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:16,336 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:16,337 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:12.256Z'}
+2023-10-09 17:22:16,337 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:25,104 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:22:27,140 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:31,232 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:31,233 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:31,233 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:27.140Z'}
+2023-10-09 17:22:31,234 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:31,708 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:22:32,149 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:36,227 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:36,227 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:36,227 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:32.149Z'}
+2023-10-09 17:22:36,228 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:37,138 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:41,225 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:41,226 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:41,226 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:37.139Z'}
+2023-10-09 17:22:41,227 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:42,146 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:46,240 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:46,240 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:46,240 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:42.146Z'}
+2023-10-09 17:22:46,241 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:47,141 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:51,218 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:51,218 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:51,219 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:47.141Z'}
+2023-10-09 17:22:51,220 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:52,149 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:22:56,253 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:22:56,254 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:22:56,254 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:52.149Z'}
+2023-10-09 17:22:56,256 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:22:57,149 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:01,262 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:01,262 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:01,262 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:22:57.149Z'}
+2023-10-09 17:23:01,264 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:02,149 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:06,225 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:06,226 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:06,226 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:02.149Z'}
+2023-10-09 17:23:06,227 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:07,149 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:11,238 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:11,238 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:11,239 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:07.149Z'}
+2023-10-09 17:23:11,240 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:12,142 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:16,236 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:16,237 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:16,237 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:12.143Z'}
+2023-10-09 17:23:16,238 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:45,647 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:23:47,516 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:51,621 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:51,621 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:51,621 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:47.517Z'}
+2023-10-09 17:23:51,622 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:52,507 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:23:56,614 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:23:56,615 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:23:56,615 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:52.507Z'}
+2023-10-09 17:23:56,616 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:23:57,511 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:01,625 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:01,625 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:01,625 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:23:57.512Z'}
+2023-10-09 17:24:01,626 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:02,512 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:06,606 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:06,606 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:06,607 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:02.512Z'}
+2023-10-09 17:24:06,607 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:07,509 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:11,593 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:11,594 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:11,594 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:07.509Z'}
+2023-10-09 17:24:11,595 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:12,507 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:16,594 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:16,594 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:16,595 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:12.508Z'}
+2023-10-09 17:24:16,596 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:17,510 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:21,620 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:21,620 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:21,620 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:17.511Z'}
+2023-10-09 17:24:21,621 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:26,111 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:24:29,461 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:33,566 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:33,567 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:33,567 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:29.462Z'}
+2023-10-09 17:24:33,568 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:34,450 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:38,549 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:38,550 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:38,550 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:34.451Z'}
+2023-10-09 17:24:38,551 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:39,448 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:43,547 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:43,547 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:43,547 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:39.448Z'}
+2023-10-09 17:24:43,548 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:44,451 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:48,568 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:48,568 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:48,569 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:44.452Z'}
+2023-10-09 17:24:48,570 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:49,454 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:53,529 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:53,530 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:53,530 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:49.455Z'}
+2023-10-09 17:24:53,531 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:54,450 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:24:58,546 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:24:58,547 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:24:58,547 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:54.450Z'}
+2023-10-09 17:24:58,547 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:24:59,461 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:03,530 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:03,531 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:03,531 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:24:59.462Z'}
+2023-10-09 17:25:03,532 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:12,037 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:13,216 - basicLogger - INFO - Get request for stats has started
+2023-10-09 17:25:16,140 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:16,141 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:16,141 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:12.037Z'}
+2023-10-09 17:25:16,141 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:17,034 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:21,118 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:21,119 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:21,119 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:17.034Z'}
+2023-10-09 17:25:21,120 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:22,038 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:26,148 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:26,149 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:26,149 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:22.038Z'}
+2023-10-09 17:25:26,150 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:27,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:31,119 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:31,119 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:31,119 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:27.033Z'}
+2023-10-09 17:25:31,121 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:32,038 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:36,147 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:36,147 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:36,147 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:32.038Z'}
+2023-10-09 17:25:36,149 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:37,045 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:41,137 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:41,138 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:41,138 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:37.045Z'}
+2023-10-09 17:25:41,139 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:42,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:46,101 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:46,101 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:46,102 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:42.032Z'}
+2023-10-09 17:25:46,103 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:47,044 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:51,135 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:51,135 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:51,136 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:47.045Z'}
+2023-10-09 17:25:51,137 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:52,037 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:25:56,117 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:25:56,117 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:25:56,119 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:52.037Z'}
+2023-10-09 17:25:56,120 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:25:57,033 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:01,106 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:01,107 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:01,107 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:25:57.034Z'}
+2023-10-09 17:26:01,108 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:02,040 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:06,146 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:06,146 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:06,146 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:02.041Z'}
+2023-10-09 17:26:06,147 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:07,044 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:11,116 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:11,116 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:11,116 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:07.045Z'}
+2023-10-09 17:26:11,117 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:12,034 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:16,111 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:16,111 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:16,112 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:12.034Z'}
+2023-10-09 17:26:16,113 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:17,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:21,141 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:21,142 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:21,142 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:17.032Z'}
+2023-10-09 17:26:21,143 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:22,041 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:26,121 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:26,122 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:26,122 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:22.042Z'}
+2023-10-09 17:26:26,123 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:27,044 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:31,156 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:31,157 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:31,157 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:27.044Z'}
+2023-10-09 17:26:31,158 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:32,040 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:36,124 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:36,125 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:36,125 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:32.041Z'}
+2023-10-09 17:26:36,126 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:37,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:41,119 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:41,119 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:41,119 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:37.032Z'}
+2023-10-09 17:26:41,123 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:42,028 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:46,115 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:46,115 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:46,115 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:42.030Z'}
+2023-10-09 17:26:46,115 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:47,039 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:51,111 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:51,111 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:51,111 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:47.039Z'}
+2023-10-09 17:26:51,111 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:52,034 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:26:56,110 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:26:56,110 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:26:56,110 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:52.034Z'}
+2023-10-09 17:26:56,110 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:26:57,041 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:01,101 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:01,101 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:01,101 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:26:57.041Z'}
+2023-10-09 17:27:01,104 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:02,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:06,097 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:06,097 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:06,099 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:02.032Z'}
+2023-10-09 17:27:06,099 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:07,042 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:11,134 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:11,134 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:11,134 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:07.042Z'}
+2023-10-09 17:27:11,134 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:12,038 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:16,131 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:16,132 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:16,132 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:12.039Z'}
+2023-10-09 17:27:16,133 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:17,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:21,113 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:21,113 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:21,113 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:17.033Z'}
+2023-10-09 17:27:21,113 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:22,041 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:26,128 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:26,128 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:26,128 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:22.041Z'}
+2023-10-09 17:27:26,128 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:27,039 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:31,125 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:31,125 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:31,125 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:27.039Z'}
+2023-10-09 17:27:31,125 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:32,041 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:36,120 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:36,120 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:36,120 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:32.041Z'}
+2023-10-09 17:27:36,129 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:37,035 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:41,114 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:41,117 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:41,117 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:37.035Z'}
+2023-10-09 17:27:41,118 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:42,044 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:46,102 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:46,106 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:46,106 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:42.044Z'}
+2023-10-09 17:27:46,106 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:47,043 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:51,135 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:51,135 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:51,135 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:47.043Z'}
+2023-10-09 17:27:51,139 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:52,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:27:56,115 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:27:56,115 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:27:56,115 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:27:52.033Z'}
+2023-10-09 17:27:56,118 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:27:57,038 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:01,115 - basicLogger - INFO - Amount of augment data: 3081
+2023-10-09 17:28:01,115 - basicLogger - INFO - Amount of unit data: 3131
+2023-10-09 17:28:01,115 - basicLogger - DEBUG - {'highest_augment_placement': 5, 'lowest_augment_placement': 0, 'highest_champion_cost': 76, 'lowest_champion_cost': 0, 'total_amount_of_data': 6212, 'last_updated': '2023-10-09T17:27:57.038Z'}
+2023-10-09 17:28:01,116 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:02,043 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:06,135 - basicLogger - INFO - Amount of augment data: 6161
+2023-10-09 17:28:06,136 - basicLogger - INFO - Amount of unit data: 9390
+2023-10-09 17:28:06,136 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_amount_of_data': 15551, 'last_updated': '2023-10-09T17:28:02.044Z'}
+2023-10-09 17:28:06,137 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:07,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:11,119 - basicLogger - INFO - Amount of augment data: 6162
+2023-10-09 17:28:11,120 - basicLogger - INFO - Amount of unit data: 6262
+2023-10-09 17:28:11,120 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_amount_of_data': 12424, 'last_updated': '2023-10-09T17:28:07.032Z'}
+2023-10-09 17:28:11,122 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:12,035 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:16,149 - basicLogger - INFO - Amount of augment data: 6165
+2023-10-09 17:28:16,149 - basicLogger - INFO - Amount of unit data: 6264
+2023-10-09 17:28:16,149 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 97, 'lowest_champion_cost': 0, 'total_amount_of_data': 12429, 'last_updated': '2023-10-09T17:28:12.035Z'}
+2023-10-09 17:28:16,151 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:17,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:21,151 - basicLogger - INFO - Amount of augment data: 930
+2023-10-09 17:28:21,151 - basicLogger - INFO - Amount of unit data: 3135
+2023-10-09 17:28:21,152 - basicLogger - DEBUG - {'highest_augment_placement': 7, 'lowest_augment_placement': 0, 'highest_champion_cost': 97, 'lowest_champion_cost': 0, 'total_amount_of_data': 4065, 'last_updated': '2023-10-09T17:28:17.031Z'}
+2023-10-09 17:28:21,153 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:22,037 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:26,139 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:26,139 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:26,140 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:22.037Z'}
+2023-10-09 17:28:26,142 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:27,037 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:31,141 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:31,142 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:31,142 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:27.039Z'}
+2023-10-09 17:28:31,144 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:32,042 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:36,116 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:36,116 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:36,117 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:32.042Z'}
+2023-10-09 17:28:36,119 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:37,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:41,135 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:41,135 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:41,136 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:37.033Z'}
+2023-10-09 17:28:41,137 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:42,039 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:46,114 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:46,115 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:46,115 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:42.039Z'}
+2023-10-09 17:28:46,117 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:47,032 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:51,115 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:51,115 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:51,115 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:47.032Z'}
+2023-10-09 17:28:51,116 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:52,046 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:28:56,141 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:28:56,142 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:28:56,142 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:52.046Z'}
+2023-10-09 17:28:56,144 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:28:57,040 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:29:01,162 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:29:01,163 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:29:01,164 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:28:57.041Z'}
+2023-10-09 17:29:01,165 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:29:02,031 - basicLogger - INFO - Periodic processing has started
+2023-10-09 17:29:06,135 - basicLogger - INFO - Amount of augment data: 3
+2023-10-09 17:29:06,136 - basicLogger - INFO - Amount of unit data: 3
+2023-10-09 17:29:06,137 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-09T17:29:02.031Z'}
+2023-10-09 17:29:06,137 - basicLogger - INFO - Processing period has ended
+2023-10-09 17:29:07,037 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:17:27,317 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:17:31,400 - basicLogger - INFO - Amount of augment data: 46342
+2023-10-10 09:17:31,400 - basicLogger - INFO - Amount of unit data: 47076
+2023-10-10 09:17:31,400 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_amount_of_data': 93418, 'last_updated': '2023-10-10T09:17:27.317Z', 'total_augment': 46342, 'total_unit': 47076}
+2023-10-10 09:17:31,400 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:17:32,317 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:17:36,369 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:17:36,369 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:17:36,369 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:17:32.317Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:17:36,369 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:17:37,313 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:17:41,351 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:17:41,351 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:17:41,356 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:17:37.313Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:17:41,357 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:17:42,318 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:17:46,367 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:17:46,373 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:17:46,373 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:17:42.318Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:17:46,374 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:18:08,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:13,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:18,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:23,185 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:28,200 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:33,192 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:38,190 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:43,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:48,190 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:53,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:18:58,191 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:19:57,680 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:20:01,729 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:20:01,729 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:20:01,729 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:19:57.680Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:20:01,729 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:20:02,669 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:20:06,706 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:20:06,706 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:20:06,712 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:20:02.669Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:20:06,713 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:20:07,656 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:20:11,707 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:20:11,712 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:20:11,712 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:20:07.656Z', 'total_augment': 3, 'total_unit': 3}
+2023-10-10 09:20:11,713 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:26:50,801 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:26:55,799 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:10,450 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:14,519 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:14,520 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:14,520 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:10.451Z'}
+2023-10-10 09:29:14,522 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:15,445 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:19,497 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:19,497 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:19,503 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:15.445Z'}
+2023-10-10 09:29:19,504 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:20,455 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:24,522 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:24,522 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:24,522 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:20.455Z'}
+2023-10-10 09:29:24,522 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:25,447 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:29,500 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:29,500 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:29,500 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:25.447Z'}
+2023-10-10 09:29:29,500 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:30,453 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:34,522 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:34,522 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:34,527 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:30.453Z'}
+2023-10-10 09:29:34,528 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:35,446 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:39,509 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:39,509 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:39,509 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:35.446Z'}
+2023-10-10 09:29:39,509 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:40,461 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:44,521 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:44,521 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:44,521 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:40.461Z'}
+2023-10-10 09:29:44,528 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:45,446 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:49,507 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:29:49,507 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:29:49,507 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:29:45.446Z'}
+2023-10-10 09:29:49,507 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:50,446 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:54,531 - basicLogger - INFO - Amount of augment data: 3073
+2023-10-10 09:29:54,531 - basicLogger - INFO - Amount of unit data: 3123
+2023-10-10 09:29:54,531 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 97, 'lowest_champion_cost': 0, 'total_augment': 3073, 'total_unit': 3123, 'total_amount_of_data': 6196, 'last_updated': '2023-10-10T09:29:50.446Z'}
+2023-10-10 09:29:54,531 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:29:55,461 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:29:59,502 - basicLogger - INFO - Amount of augment data: 927
+2023-10-10 09:29:59,503 - basicLogger - INFO - Amount of unit data: 3131
+2023-10-10 09:29:59,503 - basicLogger - DEBUG - {'highest_augment_placement': 6, 'lowest_augment_placement': 0, 'highest_champion_cost': 65, 'lowest_champion_cost': 0, 'total_augment': 927, 'total_unit': 3131, 'total_amount_of_data': 4058, 'last_updated': '2023-10-10T09:29:55.461Z'}
+2023-10-10 09:29:59,504 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:30:00,459 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:30:04,561 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:30:04,561 - basicLogger - INFO - Amount of unit data: 3132
+2023-10-10 09:30:04,561 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 95, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3132, 'total_amount_of_data': 3135, 'last_updated': '2023-10-10T09:30:00.459Z'}
+2023-10-10 09:30:04,561 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:30:05,457 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:30:09,553 - basicLogger - INFO - Amount of augment data: 1235
+2023-10-10 09:30:09,553 - basicLogger - INFO - Amount of unit data: 3130
+2023-10-10 09:30:09,560 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 83, 'lowest_champion_cost': 0, 'total_augment': 1235, 'total_unit': 3130, 'total_amount_of_data': 4365, 'last_updated': '2023-10-10T09:30:05.457Z'}
+2023-10-10 09:30:09,560 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:30:10,458 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:30:14,505 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:30:14,505 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:30:14,505 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:30:10.458Z'}
+2023-10-10 09:30:14,511 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:30:15,448 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:30:19,495 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:30:19,495 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:30:19,495 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:30:15.448Z'}
+2023-10-10 09:30:19,495 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:30:44,009 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:30:49,004 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:16,288 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:20,362 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:39:20,362 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:39:20,362 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:39:16.288Z'}
+2023-10-10 09:39:20,362 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:21,295 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:25,372 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:39:25,372 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:39:25,372 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:39:21.295Z'}
+2023-10-10 09:39:25,372 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:26,292 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:30,361 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:39:30,362 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:39:30,362 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:39:26.292Z'}
+2023-10-10 09:39:30,363 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:31,288 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:35,342 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:39:35,342 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:39:35,343 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:39:31.288Z'}
+2023-10-10 09:39:35,344 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:36,286 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:40,336 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:39:40,336 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:39:40,336 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:39:36.286Z'}
+2023-10-10 09:39:40,336 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:41,288 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:45,347 - basicLogger - INFO - Amount of augment data: 3083
+2023-10-10 09:39:45,348 - basicLogger - INFO - Amount of unit data: 3131
+2023-10-10 09:39:45,348 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 86, 'lowest_champion_cost': 0, 'total_augment': 3083, 'total_unit': 3131, 'total_amount_of_data': 6214, 'last_updated': '2023-10-10T09:39:41.288Z'}
+2023-10-10 09:39:45,349 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:46,291 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:50,335 - basicLogger - INFO - Amount of augment data: 4623
+2023-10-10 09:39:50,335 - basicLogger - INFO - Amount of unit data: 6260
+2023-10-10 09:39:50,335 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 92, 'lowest_champion_cost': 0, 'total_augment': 4623, 'total_unit': 6260, 'total_amount_of_data': 10883, 'last_updated': '2023-10-10T09:39:46.291Z'}
+2023-10-10 09:39:50,344 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:51,292 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:39:55,344 - basicLogger - INFO - Amount of augment data: 4006
+2023-10-10 09:39:55,344 - basicLogger - INFO - Amount of unit data: 7199
+2023-10-10 09:39:55,344 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 92, 'lowest_champion_cost': 0, 'total_augment': 4006, 'total_unit': 7199, 'total_amount_of_data': 11205, 'last_updated': '2023-10-10T09:39:51.292Z'}
+2023-10-10 09:39:55,353 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:39:56,286 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:00,378 - basicLogger - INFO - Amount of augment data: 6162
+2023-10-10 09:40:00,378 - basicLogger - INFO - Amount of unit data: 8449
+2023-10-10 09:40:00,378 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_augment': 6162, 'total_unit': 8449, 'total_amount_of_data': 14611, 'last_updated': '2023-10-10T09:39:56.286Z'}
+2023-10-10 09:40:00,387 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:11,736 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:15,794 - basicLogger - INFO - Amount of augment data: 15401
+2023-10-10 09:40:15,794 - basicLogger - INFO - Amount of unit data: 15645
+2023-10-10 09:40:15,794 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_augment': 15401, 'total_unit': 15645, 'total_amount_of_data': 31046, 'last_updated': '2023-10-10T09:40:11.736Z'}
+2023-10-10 09:40:15,796 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:16,736 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:20,769 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:20,775 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:20,775 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:16.736Z'}
+2023-10-10 09:40:20,776 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:21,736 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:25,798 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:25,798 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:25,798 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:21.736Z'}
+2023-10-10 09:40:25,798 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:26,736 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:30,785 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:30,785 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:30,785 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:26.736Z'}
+2023-10-10 09:40:30,791 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:31,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:35,801 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:35,801 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:35,802 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:31.735Z'}
+2023-10-10 09:40:35,804 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:36,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:40,787 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:40,787 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:40,787 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:36.735Z'}
+2023-10-10 09:40:40,787 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:41,744 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:45,794 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:45,794 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:45,794 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:41.744Z'}
+2023-10-10 09:40:45,794 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:46,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:50,776 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:50,776 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:50,776 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:46.735Z'}
+2023-10-10 09:40:50,776 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:51,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:40:55,793 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:40:55,793 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:40:55,799 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:40:51.735Z'}
+2023-10-10 09:40:55,800 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:40:56,737 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:00,784 - basicLogger - INFO - Amount of augment data: 3398
+2023-10-10 09:41:00,784 - basicLogger - INFO - Amount of unit data: 3453
+2023-10-10 09:41:00,784 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 82, 'lowest_champion_cost': 0, 'total_augment': 3398, 'total_unit': 3453, 'total_amount_of_data': 6851, 'last_updated': '2023-10-10T09:40:56.738Z'}
+2023-10-10 09:41:00,785 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:01,734 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:05,802 - basicLogger - INFO - Amount of augment data: 6182
+2023-10-10 09:41:05,802 - basicLogger - INFO - Amount of unit data: 9100
+2023-10-10 09:41:05,802 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 6182, 'total_unit': 9100, 'total_amount_of_data': 15282, 'last_updated': '2023-10-10T09:41:01.734Z'}
+2023-10-10 09:41:05,804 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:06,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:10,792 - basicLogger - INFO - Amount of augment data: 6183
+2023-10-10 09:41:10,793 - basicLogger - INFO - Amount of unit data: 6278
+2023-10-10 09:41:10,793 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 6183, 'total_unit': 6278, 'total_amount_of_data': 12461, 'last_updated': '2023-10-10T09:41:06.735Z'}
+2023-10-10 09:41:10,793 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:11,734 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:15,775 - basicLogger - INFO - Amount of augment data: 6181
+2023-10-10 09:41:15,775 - basicLogger - INFO - Amount of unit data: 6280
+2023-10-10 09:41:15,776 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 96, 'lowest_champion_cost': 0, 'total_augment': 6181, 'total_unit': 6280, 'total_amount_of_data': 12461, 'last_updated': '2023-10-10T09:41:11.734Z'}
+2023-10-10 09:41:15,777 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:16,735 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:20,792 - basicLogger - INFO - Amount of augment data: 930
+2023-10-10 09:41:20,792 - basicLogger - INFO - Amount of unit data: 3140
+2023-10-10 09:41:20,798 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 96, 'lowest_champion_cost': 0, 'total_augment': 930, 'total_unit': 3140, 'total_amount_of_data': 4070, 'last_updated': '2023-10-10T09:41:16.735Z'}
+2023-10-10 09:41:20,799 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:21,734 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:25,768 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:25,773 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:25,773 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:21.734Z'}
+2023-10-10 09:41:25,774 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:26,734 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:30,792 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:30,793 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:30,793 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:26.734Z'}
+2023-10-10 09:41:30,793 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:31,736 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:35,804 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:35,806 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:35,806 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:31.736Z'}
+2023-10-10 09:41:35,807 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:36,734 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:40,783 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:40,783 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:40,783 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:36.734Z'}
+2023-10-10 09:41:40,783 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:41,731 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:45,833 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:45,834 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:45,834 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:41.732Z'}
+2023-10-10 09:41:45,836 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:46,730 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:50,838 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:50,838 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:50,838 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:46.731Z'}
+2023-10-10 09:41:50,839 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:41:51,739 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:41:55,793 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:41:55,794 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:41:55,794 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:41:51.739Z'}
+2023-10-10 09:41:55,795 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:14,852 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:18,923 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:18,923 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:18,924 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:14.855Z'}
+2023-10-10 09:43:18,924 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:19,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:23,902 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:23,902 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:23,902 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:19.849Z'}
+2023-10-10 09:43:23,902 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:24,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:28,890 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:28,890 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:28,890 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:24.849Z'}
+2023-10-10 09:43:28,890 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:29,850 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:33,899 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:33,905 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:33,905 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:29.850Z'}
+2023-10-10 09:43:33,906 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:34,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:38,891 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:38,891 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:38,891 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:34.849Z'}
+2023-10-10 09:43:38,897 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:39,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:43,924 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:43,925 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:43,925 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:39.849Z'}
+2023-10-10 09:43:43,926 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:44,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:48,908 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:48,908 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:48,908 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:44.849Z'}
+2023-10-10 09:43:48,908 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:49,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:53,900 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:53,906 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:53,906 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:49.850Z'}
+2023-10-10 09:43:53,907 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:54,848 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:43:58,908 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:43:58,908 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:43:58,908 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:54.848Z'}
+2023-10-10 09:43:58,908 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:43:59,848 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:03,890 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:44:03,890 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:44:03,890 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:43:59.848Z'}
+2023-10-10 09:44:03,897 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:44:04,856 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:08,917 - basicLogger - INFO - Amount of augment data: 3
+2023-10-10 09:44:08,917 - basicLogger - INFO - Amount of unit data: 3
+2023-10-10 09:44:08,917 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:44:04.856Z'}
+2023-10-10 09:44:08,917 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:44:09,846 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:14,848 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:19,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:24,849 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:44:29,848 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:02,706 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:06,779 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:06,780 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:06,780 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:02.706Z'}
+2023-10-10 09:45:06,780 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:07,705 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:11,753 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:11,753 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:11,754 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:07.705Z'}
+2023-10-10 09:45:11,755 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:12,705 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:16,770 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:16,771 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:16,771 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:12.705Z'}
+2023-10-10 09:45:16,773 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:17,705 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:21,762 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:21,763 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:21,763 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:17.705Z'}
+2023-10-10 09:45:21,764 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:22,705 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:26,761 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:26,762 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:26,762 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:22.705Z'}
+2023-10-10 09:45:26,763 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:38,894 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:42,955 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:42,955 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:42,955 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:38.894Z'}
+2023-10-10 09:45:42,962 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:45:43,897 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:45:47,936 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:45:47,936 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:45:47,936 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 3, 'total_unit': 3, 'total_amount_of_data': 6, 'last_updated': '2023-10-10T09:45:43.897Z'}
+2023-10-10 09:45:47,938 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:06,478 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:10,520 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:10,520 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:10,520 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:06.478Z'}
+2023-10-10 09:47:10,527 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:11,479 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:15,543 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:15,543 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:15,544 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:11.479Z'}
+2023-10-10 09:47:15,545 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:16,470 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:20,554 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:20,554 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:20,554 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:16.470Z'}
+2023-10-10 09:47:20,554 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:21,470 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:25,520 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:25,520 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:25,525 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:21.470Z'}
+2023-10-10 09:47:25,526 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:26,471 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:30,534 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:30,534 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:30,535 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:26.471Z'}
+2023-10-10 09:47:30,537 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:31,472 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:35,521 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:35,521 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:35,521 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:31.472Z'}
+2023-10-10 09:47:35,521 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:36,471 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:40,567 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:40,568 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:40,568 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:36.471Z'}
+2023-10-10 09:47:40,570 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:41,476 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:45,568 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:45,569 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:45,569 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:41.477Z'}
+2023-10-10 09:47:45,570 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:46,474 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:47,640 - basicLogger - INFO - Get request for stats has started
+2023-10-10 09:47:50,548 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:50,548 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:50,548 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:46.475Z'}
+2023-10-10 09:47:50,550 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:51,481 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:47:55,573 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:47:55,573 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:47:55,573 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:47:51.481Z'}
+2023-10-10 09:47:55,575 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:47:56,475 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:00,574 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:48:00,575 - basicLogger - INFO - Amount of unit data: 10
+2023-10-10 09:48:00,575 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 10, 'total_amount_of_data': 20, 'last_updated': '2023-10-10T09:47:56.475Z'}
+2023-10-10 09:48:00,576 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:01,483 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:05,578 - basicLogger - INFO - Amount of augment data: 18
+2023-10-10 09:48:05,579 - basicLogger - INFO - Amount of unit data: 28
+2023-10-10 09:48:05,579 - basicLogger - DEBUG - {'highest_augment_placement': 7, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 18, 'total_unit': 28, 'total_amount_of_data': 46, 'last_updated': '2023-10-10T09:48:01.483Z'}
+2023-10-10 09:48:05,580 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:06,482 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:10,569 - basicLogger - INFO - Amount of augment data: 20
+2023-10-10 09:48:10,569 - basicLogger - INFO - Amount of unit data: 22
+2023-10-10 09:48:10,570 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_augment': 20, 'total_unit': 22, 'total_amount_of_data': 42, 'last_updated': '2023-10-10T09:48:06.483Z'}
+2023-10-10 09:48:10,571 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:11,482 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:15,562 - basicLogger - INFO - Amount of augment data: 20
+2023-10-10 09:48:15,563 - basicLogger - INFO - Amount of unit data: 20
+2023-10-10 09:48:15,563 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_augment': 20, 'total_unit': 20, 'total_amount_of_data': 40, 'last_updated': '2023-10-10T09:48:11.482Z'}
+2023-10-10 09:48:15,564 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:16,478 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:20,588 - basicLogger - INFO - Amount of augment data: 5
+2023-10-10 09:48:20,588 - basicLogger - INFO - Amount of unit data: 10
+2023-10-10 09:48:20,590 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 95, 'lowest_champion_cost': 0, 'total_augment': 5, 'total_unit': 10, 'total_amount_of_data': 15, 'last_updated': '2023-10-10T09:48:16.479Z'}
+2023-10-10 09:48:20,591 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:21,472 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:24,083 - basicLogger - INFO - Get request for stats has started
+2023-10-10 09:48:25,565 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:25,565 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:25,565 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:21.473Z'}
+2023-10-10 09:48:25,567 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:26,481 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:30,582 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:30,582 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:30,582 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:26.482Z'}
+2023-10-10 09:48:30,584 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:31,472 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:35,563 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:35,564 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:35,564 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:31.473Z'}
+2023-10-10 09:48:35,566 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:36,485 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:40,572 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:40,572 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:40,573 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:36.485Z'}
+2023-10-10 09:48:40,573 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:41,471 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:45,555 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:45,556 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:45,556 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:41.471Z'}
+2023-10-10 09:48:45,557 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:46,480 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:50,577 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:50,577 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:50,577 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:46.481Z'}
+2023-10-10 09:48:50,578 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:51,471 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:48:55,541 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:48:55,541 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:48:55,541 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:48:51.472Z'}
+2023-10-10 09:48:55,542 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:48:56,479 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:00,583 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:49:00,584 - basicLogger - INFO - Amount of unit data: 10
+2023-10-10 09:49:00,584 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 96, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 10, 'total_amount_of_data': 20, 'last_updated': '2023-10-10T09:48:56.480Z'}
+2023-10-10 09:49:00,585 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:01,477 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:05,587 - basicLogger - INFO - Amount of augment data: 20
+2023-10-10 09:49:05,588 - basicLogger - INFO - Amount of unit data: 20
+2023-10-10 09:49:05,588 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 100, 'lowest_champion_cost': 0, 'total_augment': 20, 'total_unit': 20, 'total_amount_of_data': 40, 'last_updated': '2023-10-10T09:49:01.478Z'}
+2023-10-10 09:49:05,589 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:06,472 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:10,570 - basicLogger - INFO - Amount of augment data: 18
+2023-10-10 09:49:10,571 - basicLogger - INFO - Amount of unit data: 20
+2023-10-10 09:49:10,571 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 100, 'lowest_champion_cost': 0, 'total_augment': 18, 'total_unit': 20, 'total_amount_of_data': 38, 'last_updated': '2023-10-10T09:49:06.472Z'}
+2023-10-10 09:49:10,572 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:11,483 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:15,600 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:49:15,601 - basicLogger - INFO - Amount of unit data: 20
+2023-10-10 09:49:15,601 - basicLogger - DEBUG - {'highest_augment_placement': 7, 'lowest_augment_placement': 0, 'highest_champion_cost': 97, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 20, 'total_amount_of_data': 30, 'last_updated': '2023-10-10T09:49:11.484Z'}
+2023-10-10 09:49:15,602 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:16,476 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:20,564 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:49:20,564 - basicLogger - INFO - Amount of unit data: 20
+2023-10-10 09:49:20,565 - basicLogger - DEBUG - {'highest_augment_placement': 7, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 20, 'total_amount_of_data': 30, 'last_updated': '2023-10-10T09:49:16.476Z'}
+2023-10-10 09:49:20,566 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:21,477 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:25,570 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:25,570 - basicLogger - INFO - Amount of unit data: 2
+2023-10-10 09:49:25,570 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 2, 'total_amount_of_data': 2, 'last_updated': '2023-10-10T09:49:21.478Z'}
+2023-10-10 09:49:25,571 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:26,478 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:30,552 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:30,552 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:30,552 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:26.478Z'}
+2023-10-10 09:49:30,553 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:31,479 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:35,554 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:35,555 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:35,555 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:31.480Z'}
+2023-10-10 09:49:35,556 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:36,471 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:40,549 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:40,549 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:40,549 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:36.471Z'}
+2023-10-10 09:49:40,550 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:41,477 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:45,584 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:45,585 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:45,585 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:41.477Z'}
+2023-10-10 09:49:45,586 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:46,474 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:50,582 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:50,582 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:50,583 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:46.475Z'}
+2023-10-10 09:49:50,584 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:51,479 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:49:55,561 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:49:55,561 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:49:55,562 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:51.480Z'}
+2023-10-10 09:49:55,563 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:49:56,473 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:00,557 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:00,557 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:00,558 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:49:56.474Z'}
+2023-10-10 09:50:00,559 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:01,480 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:05,585 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:05,586 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:05,586 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:01.480Z'}
+2023-10-10 09:50:05,587 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:06,476 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:10,566 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:10,567 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:10,567 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:06.477Z'}
+2023-10-10 09:50:10,568 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:11,480 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:15,579 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:15,579 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:15,580 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:11.480Z'}
+2023-10-10 09:50:15,582 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:16,472 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:20,575 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:20,575 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:20,575 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:16.473Z'}
+2023-10-10 09:50:20,577 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:21,482 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:25,596 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:25,596 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:25,597 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:21.483Z'}
+2023-10-10 09:50:25,598 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:26,473 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:30,571 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:30,572 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:30,572 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:26.474Z'}
+2023-10-10 09:50:30,573 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:31,478 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:35,561 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:35,561 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:35,561 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:31.479Z'}
+2023-10-10 09:50:35,563 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:36,476 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:40,548 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:40,549 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:40,549 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:36.477Z'}
+2023-10-10 09:50:40,550 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:48,014 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:52,100 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:52,101 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:50:52,101 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:50:52.101Z'}
+2023-10-10 09:50:52,103 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:53,014 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:50:57,099 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:50:57,099 - basicLogger - INFO - Amount of unit data: 10
+2023-10-10 09:50:57,100 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 10, 'total_amount_of_data': 10, 'last_updated': '2023-10-10T09:50:57.100Z'}
+2023-10-10 09:50:57,101 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:50:58,005 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:02,082 - basicLogger - INFO - Amount of augment data: 9
+2023-10-10 09:51:02,083 - basicLogger - INFO - Amount of unit data: 19
+2023-10-10 09:51:02,083 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 99, 'lowest_champion_cost': 0, 'total_augment': 9, 'total_unit': 19, 'total_amount_of_data': 28, 'last_updated': '2023-10-10T09:51:02.083Z'}
+2023-10-10 09:51:02,084 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:51:03,016 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:07,120 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:51:07,120 - basicLogger - INFO - Amount of unit data: 11
+2023-10-10 09:51:07,120 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 97, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 11, 'total_amount_of_data': 21, 'last_updated': '2023-10-10T09:51:07.120Z'}
+2023-10-10 09:51:07,121 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:51:08,014 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:12,093 - basicLogger - INFO - Amount of augment data: 10
+2023-10-10 09:51:12,093 - basicLogger - INFO - Amount of unit data: 10
+2023-10-10 09:51:12,093 - basicLogger - DEBUG - {'highest_augment_placement': 8, 'lowest_augment_placement': 0, 'highest_champion_cost': 93, 'lowest_champion_cost': 0, 'total_augment': 10, 'total_unit': 10, 'total_amount_of_data': 20, 'last_updated': '2023-10-10T09:51:12.093Z'}
+2023-10-10 09:51:12,094 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:51:13,009 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:17,111 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:51:17,111 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:51:17,112 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:51:17.112Z'}
+2023-10-10 09:51:17,113 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:51:18,006 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:22,086 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:51:22,086 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:51:22,086 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:51:22.086Z'}
+2023-10-10 09:51:22,088 - basicLogger - INFO - Processing period has ended
+2023-10-10 09:51:23,012 - basicLogger - INFO - Periodic processing has started
+2023-10-10 09:51:27,103 - basicLogger - INFO - Amount of augment data: 0
+2023-10-10 09:51:27,104 - basicLogger - INFO - Amount of unit data: 0
+2023-10-10 09:51:27,104 - basicLogger - DEBUG - {'highest_augment_placement': 0, 'lowest_augment_placement': 0, 'highest_champion_cost': 0, 'lowest_champion_cost': 0, 'total_augment': 0, 'total_unit': 0, 'total_amount_of_data': 0, 'last_updated': '2023-10-10T09:51:27.104Z'}
+2023-10-10 09:51:27,106 - basicLogger - INFO - Processing period has ended
