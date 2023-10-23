@@ -10,8 +10,8 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 
-COPY ./Receiver
+COPY . /app
 
 ENTRYPOINT ["python3"]
 
-CMD["receiver.py"]
+CMD ["receiver.py"]

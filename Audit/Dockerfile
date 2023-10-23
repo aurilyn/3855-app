@@ -10,8 +10,8 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 
-COPY ./Audit
+COPY . /app
 
 ENTRYPOINT ["python3"]
 
-CMD["audit.py"]
+CMD ["audit.py"]

@@ -10,8 +10,8 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 
-COPY ./Processing
+COPY . /app
 
 ENTRYPOINT ["python3"]
 
-CMD["processing.py"]
+CMD ["processing.py"]

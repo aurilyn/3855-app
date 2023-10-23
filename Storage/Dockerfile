@@ -10,8 +10,8 @@ WORKDIR /app
 
 RUN pip3 install -r requirements.txt
 
-COPY ./Storage
+COPY . /app
 
 ENTRYPOINT ["python3"]
 
-CMD["storage.py"]
+CMD ["storage.py"]
