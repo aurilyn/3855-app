@@ -8,6 +8,7 @@ import datetime
 import requests
 from apscheduler.schedulers.background import BackgroundScheduler
 import json
+from flask_cors import CORS, cross_origin
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -108,6 +109,8 @@ def get_stats():
     return dict(data), 200
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+CORS(app.app)
+app.app.config['CORS_HEADER'] = 'Content-Type'
 
 app.add_api("api.yml", strict_validation=True, validate_responses=True)
 
