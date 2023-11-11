@@ -13,6 +13,8 @@ import json
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
+from sqlalchemy import and_
+import time
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -77,12 +79,15 @@ def post_units(body):
 
     return NoContent, 201
  
-def get_augment_stats(timestamp):
+def get_augment_stats(start_timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
 
-    augment_list = session.query(Augment).filter(Augment.date_created >= timestamp_datetime)
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+    
+    augment_list = session.query(Augment).filter(and_(Augment.date_created >= start_timestamp_datetime,
+                                                 Augment.date_created <= end_timestamp_datetime))
 
     result = []
 
@@ -91,16 +96,19 @@ def get_augment_stats(timestamp):
 
     session.close()
 
-    logger.info("Query for Augments after %s returns %d results" % (timestamp, len(result)))
+    logger.info("Query for Augments after %s returns %d results" % (start_timestamp, len(result)))
 
     return result, 200
 
-def get_units(timestamp):
+def get_units(start_timestamp, end_timestamp):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
 
-    unit_list = session.query(Unit).filter(Unit.date_created >= timestamp_datetime)
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+    unit_list = session.query(Unit).filter(and_(Unit.date_created >= start_timestamp_datetime,
+                                           Unit.date_created <= end_timestamp_datetime))
 
     result = []
 
@@ -109,16 +117,24 @@ def get_units(timestamp):
 
     session.close()
 
-    logger.info("Query for Units after %s returns %d results" % (timestamp, len(result)))
+    logger.info("Query for Units after %s returns %d results" % (start_timestamp, len(result)))
 
     return result, 200
 
 def process_messages():
     hostname = "%s:%d" % (app_config['events']['hostname'],
                           app_config['events']['port'])
-    client = KafkaClient(hosts=hostname)
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-
+    max_retries = 100
+    current_retries = 0
+    while current_retries < max_retries:
+        logger.info("Attempting to connect to Kafka, current retry count is" % (current_retries))
+        try:
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(app_config['events']['topic'])]
+        except:
+            logger.error("Connection to Kafka failed")
+            current_retries += 1
+            time.sleep(app_config['scheduler']['period_sec'])
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                          reset_offset_on_start=False,
                                          auto_offset_reset=OffsetType.LATEST)

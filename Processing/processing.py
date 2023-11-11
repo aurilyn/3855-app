@@ -20,6 +20,7 @@ with open('log_conf.yml', 'r') as f:
 logger = logging.getLogger('basicLogger')
 
 def populate_stats():
+    current_time = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
     logger.info("Periodic processing has started")
 
     try:
@@ -43,7 +44,7 @@ def populate_stats():
         'timestamp': data['last_updated']
     }
 
-    augment_query = requests.get(app_config['eventstore1']['url'], params=params)
+    augment_query = requests.get(app_config['eventstore1']['url'] + "/augment?start_timestamp=" + data['last_updated'] + "&end_timestamp=" + current_time)
     unit_query = requests.get(app_config['eventstore2']['url'], params=params)
     if augment_query.status_code == 200:
         max_aug_placement = 0
@@ -73,7 +74,6 @@ def populate_stats():
         logger.info(f"Amount of unit data: {len(content_json)}")
     else:
         logger.error("Did not get a 200 response code")
-    current_time = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S.%f')[:-3] + 'Z'
     data["highest_augment_placement"] = max_aug_placement
     data["lowest_augment_placement"] = min_aug_placement
     data["highest_champion_cost"] = max_unit_cost
