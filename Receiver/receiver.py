@@ -7,10 +7,10 @@ import logging.config
 import uuid
 import datetime
 import json
+import time
 from pykafka import KafkaClient
 
 headers = {"Content-Type": 'application/json; charset=utf-8'}
-    
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -18,15 +18,26 @@ with open('log_conf.yml', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
+hostname = "%s:%d" % (app_config['events']['hostname'], app_config['events']['port'])    
 logger = logging.getLogger('basicLogger')
+
+max_retries = 100
+current_retries = 0
+while current_retries < max_retries:
+    logger.info("Attempting to connect to Kafka, current retry count is" % (current_retries))
+    try:
+        client = KafkaClient(hosts=hostname)
+        topic = client.topics[str.encode(app_config['events']['topic'])]
+    except:
+        logger.error("Connection to Kafka failed")
+        current_retries += 1
+        time.sleep(app_config['scheduler']['period_sec'])
 
 def post_augment_stats(body):
     body["trace_id"] = str(uuid.uuid4())
     
     logger.info(f"Created with the following trace id: {body['trace_id']}")
-
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
+    
     producer = topic.get_sync_producer()
 
     msg = { "type": "augment",
@@ -48,8 +59,6 @@ def post_units(body):
 
     logger.info(f"Created with the following trace id: {body['trace_id']}")
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
     producer = topic.get_sync_producer()
 
     msg = { "type": "unit",

@@ -7,3 +7,5 @@ events:
   hostname: benny-3855.eastus2.cloudapp.azure.com
   port: 9092
   topic: events
+scheduler:
+  period_sec: 5
