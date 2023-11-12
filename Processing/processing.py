@@ -45,7 +45,7 @@ def populate_stats():
     }
 
     augment_query = requests.get(app_config['eventstore1']['url'] + "/augment?start_timestamp=" + data['last_updated'] + "&end_timestamp=" + current_time)
-    unit_query = requests.get(app_config['eventstore2']['url'], params=params)
+    unit_query = requests.get(app_config['eventstore2']['url'] + "/unit?start_timestamp=" + data['last_updated'] + "&end_timestamp=" + current_time)
     if augment_query.status_code == 200:
         max_aug_placement = 0
         min_aug_placement = 0
