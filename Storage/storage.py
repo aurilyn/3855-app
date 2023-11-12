@@ -131,8 +131,9 @@ def process_messages():
         try:
             client = KafkaClient(hosts=hostname)
             topic = client.topics[str.encode(app_config['events']['topic'])]
-        except:
-            logger.error("Connection to Kafka failed")
+            break
+        except Exception as e:
+            logger.error(f"Connection to Kafka failed: {e}")
             current_retries += 1
             time.sleep(app_config['scheduler']['period_sec'])
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
