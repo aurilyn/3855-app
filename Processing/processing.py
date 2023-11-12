@@ -78,9 +78,9 @@ def populate_stats():
     data["lowest_augment_placement"] = min_aug_placement
     data["highest_champion_cost"] = max_unit_cost
     data["lowest_champion_cost"] = min_unit_cost
-    data['total_augment'] = total_augment
-    data['total_unit'] = total_unit
-    data["total_amount_of_data"] = total_unit + total_augment
+    data['total_augment'] += total_augment
+    data['total_unit'] += total_unit
+    data["total_amount_of_data"] += total_unit + total_augment
     data["last_updated"] = current_time
     logger.debug(data)
     with open(app_config['datastore']['filename'], 'w') as f:
