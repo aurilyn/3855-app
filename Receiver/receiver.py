@@ -28,6 +28,7 @@ while current_retries < max_retries:
     try:
         client = KafkaClient(hosts=hostname)
         topic = client.topics[str.encode(app_config['events']['topic'])]
+        producer = topic.get_sync_producer()
         logger.info("Connected to Kafka")
         break
     except Exception as e:
@@ -40,8 +41,6 @@ def post_augment_stats(body):
     
     logger.info(f"Created with the following trace id: {body['trace_id']}")
     
-    producer = topic.get_sync_producer()
-
     msg = { "type": "augment",
             "datetime":
                 datetime.datetime.now().strftime(
@@ -60,8 +59,6 @@ def post_units(body):
     body['trace_id'] = str(uuid.uuid4())
 
     logger.info(f"Created with the following trace id: {body['trace_id']}")
-
-    producer = topic.get_sync_producer()
 
     msg = { "type": "unit",
             "datetime":
