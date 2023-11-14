@@ -28,6 +28,7 @@ while current_retries < max_retries:
     try:
         client = KafkaClient(hosts=hostname)
         topic = client.topics[str.encode(app_config['events']['topic'])]
+        logger.info("Connected to Kafka")
         break
     except Exception as e:
         logger.error(f"Connection to Kafka failed: {e}")
