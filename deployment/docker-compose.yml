@@ -8,6 +8,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/receiver:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
     
@@ -20,6 +21,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/storage:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
       - "db"
@@ -32,6 +34,8 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/processing:/config
+      - /home/azureuser/logs:/logs
+      - processing-db:/data
     depends_on:
       - "storage"
     network_mode: "host"
@@ -44,6 +48,7 @@ services:
       - TARGET_ENV=test
     volumes:
       - /home/azureuser/config/audit:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "kafka"
 
@@ -55,6 +60,7 @@ services:
     hostname: zookeeper
     volumes:
       - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
+
   kafka:
     image: wurstmeister/kafka
     restart: always
@@ -94,3 +100,4 @@ services:
       - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
 volumes:
   my-db:
+  processing-db:
