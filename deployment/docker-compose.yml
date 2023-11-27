@@ -108,7 +108,5 @@ services:
       - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
 volumes:
   my-db:
-<<<<<<< HEAD
-=======
   processing-db:
->>>>>>> 7ea95402ea2c19b2657f9f2d05ced0baf4e8f3fa
+
