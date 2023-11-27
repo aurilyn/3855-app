@@ -3,21 +3,26 @@ import React, { useState, useEffect } from 'react';
 const HealthCheck = () => {
     const [healthStatus, setHealthStatus] = useState('');  // State to store health status
 
-    fetch(`http://benny-3855.eastus2.cloudapp.azure.com/health/health`)
-        .then(res => res.json())
-        .then((result)=>{
-            console.log("Received Stats")
-            setStats(result);
-            setIsLoaded(true);
-        },(error) =>{
-            setError(error)
-            setIsLoaded(true);
-    })
+    const getHealth = () => {
+        fetch(`http://benny-3855.eastus2.cloudapp.azure.com/health/health`)
+            .then(res => res.json())
+            .then((result)=>{
+                console.log("Received Stats")
+                setHealthStatus(result);
+            },(error) =>{
+                setError(error)
+        })
+    }
+
+    useEffect(() => {
+		const interval = setInterval(() => getStats(), 20000); // Update every 2 seconds
+		return() => clearInterval(interval);
+    }, [getHealth]);
 
     return (
         <div>
             <h2>Health Check</h2>
-            <p>Status: {healthStatus}</p>
+            <p>{healthStatus}</p>
         </div>
     );
 };
