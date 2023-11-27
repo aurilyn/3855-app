@@ -43,5 +43,8 @@ def save_to_json(data, filename):
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 
+app.add_api("api.yml", base_path="/health", strict_validation=True, validate_responses=True)
+
+
 if __name__ == "__main__":
     app.run(port=8120)
