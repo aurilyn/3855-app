@@ -198,6 +198,9 @@ def process_messages():
             session.close()
         consumer.commit_offsets()
 
+def health():
+    return 200
+
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("api.yml", base_path="/storage", strict_validation=True, validate_responses=True)
 

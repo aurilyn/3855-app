@@ -93,6 +93,7 @@ paths:
         tags:
           - health
         summary: health check for service
+        operationId: audit.health
         description: Checks if service is running or if it's down
         responses:
           '200':

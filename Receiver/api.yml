@@ -51,6 +51,7 @@ paths:
         tags:
           - health
         summary: gets info on an augment from history
+        operationId: receiver.health
         description: Checks if service is running or if it's down
         responses:
           '200':
