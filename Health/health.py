@@ -5,7 +5,7 @@ import logging.config
 import json
 import time
 import requests
-from logging import logger
+import logging
 
 output = {
     "receiver": "",
@@ -14,6 +14,8 @@ output = {
     "audit": "",
     "last_update": "",
 }
+
+logger = logging.getLogger('basicLogger')
 
 services = ['receiver', 'storage', 'processing', 'audit']
 
