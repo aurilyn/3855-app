@@ -1,6 +1,5 @@
 import connexion
 from connexion import NoContent
-from sqlalchemy import create_engine
 from datetime import datetime
 import logging.config
 import json
