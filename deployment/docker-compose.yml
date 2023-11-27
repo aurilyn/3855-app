@@ -14,7 +14,6 @@ services:
     depends_on:
       - "kafka"
     
-
   storage:
     image: storage
     ports:
@@ -125,7 +124,7 @@ services:
     - "receiver"
     - "storage"
     - "processing"
-    - "audit_log"
+    - "audit"
 volumes:
   my-db:
   processing-db:
