@@ -32,8 +32,8 @@ def health_check():
         try:
             response = requests.get(f"http://benny-3855.eastus2.cloudapp.azure.com/{service}/health", timeout=5)
             if response.status_code == 200:
-                output[service] = "running"
                 logger.info(f"{service} is running")
+                output[service] = "running"
             else:
                 logger.warning(f"{service} is down")
                 output[service] = "down"
@@ -56,7 +56,6 @@ def init_scheduler():
 app = connexion.FlaskApp(__name__, specification_dir='')
 
 app.add_api("api.yml", base_path="/health", strict_validation=True, validate_responses=True)
-
 
 if __name__ == "__main__":
     init_scheduler()
