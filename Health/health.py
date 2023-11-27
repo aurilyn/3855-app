@@ -1,18 +1,11 @@
 import connexion
 from connexion import NoContent
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
 from datetime import datetime
 import logging.config
-import yaml
-import datetime
 import json
-from pykafka import KafkaClient
-from pykafka.common import OffsetType
-from threading import Thread
 from sqlalchemy import and_
 import time
-import os
 import requests
 from logging import logger
 
