@@ -126,16 +126,7 @@ services:
     - "storage"
     - "processing"
     - "audit"
-<<<<<<< HEAD
     - "dashboard"
-=======
-    - "dashboard"  
-    # Connects the port 80 of the nginx container to localhost:80 or localhost
-    ports:
-    - "80:80"
-    networks:
-    - "api.network"
->>>>>>> b8072d58ef5eac1a740e72241ae6d8b7051f3f77
 volumes:
   my-db:
   processing-db:
