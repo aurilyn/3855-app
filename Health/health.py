@@ -39,7 +39,7 @@ def health_check():
                 output[service] = "down"
         except:
             output[service] = "down"
-    output["last_update"] = time.strftime("%Y-%m-%d %H:%M:%S")
+    output["last_updated"] = time.strftime("%Y-%m-%d %H:%M:%S")
     save_to_json(output, "health_check_output.json")
     with open(app_config['datastore']['filename'], 'r') as f:
         data = json.load(f)
