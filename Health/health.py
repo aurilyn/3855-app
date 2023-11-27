@@ -14,7 +14,7 @@ output = {
     "storage": "",
     "processing": "",
     "audit": "",
-    "last_update": "",
+    "last_updated": "",
 }
 
 app_conf_file = "app_conf.yml"
