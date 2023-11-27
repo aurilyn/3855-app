@@ -3,7 +3,6 @@ from connexion import NoContent
 from datetime import datetime
 import logging.config
 import json
-from sqlalchemy import and_
 import time
 import requests
 from logging import logger
