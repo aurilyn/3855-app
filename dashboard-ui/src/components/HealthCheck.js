@@ -9,6 +9,7 @@ const HealthCheck = () => {
             .then((result)=>{
                 console.log("Received Stats")
                 setHealthStatus(result);
+                setError(null); 
             },(error) =>{
                 setError(error)
         })
@@ -22,7 +23,11 @@ const HealthCheck = () => {
     return (
         <div>
             <h2>Health Check</h2>
-            <p>{healthStatus}</p>
+            <p>Audit: {healthStatus.audit}</p>
+            <p>Last Updated: {healthStatus.last_updated}</p>
+            <p>Processing: {healthStatus.processing}</p>
+            <p>Receiver: {healthStatus.receiver}</p>
+            <p>Storage: {healthStatus.storage}</p>
         </div>
     );
 };
