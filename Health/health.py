@@ -41,7 +41,10 @@ def health_check():
             output[service] = "down"
     output["last_update"] = time.strftime("%Y-%m-%d %H:%M:%S")
     save_to_json(output, "health_check_output.json")
-    return output, 200
+    with open(app_config['datastore']['filename'], 'r') as f:
+        data = json.load(f)
+    logger.info(dict(data))
+    return dict(data), 200
 
 def save_to_json(data, filename):
     with open(filename, 'w') as json_file:
