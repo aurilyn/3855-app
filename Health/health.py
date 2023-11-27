@@ -40,7 +40,7 @@ def health_check():
         except:
             output[service] = "down"
     output["last_update"] = time.strftime("%Y-%m-%d %H:%M:%S")
-    save_to_json(output, "health_check_output.json")
+    save_to_json(output, "health_check_output.json")    
 
 def save_to_json(data, filename):
     with open(filename, 'w') as json_file:
@@ -59,4 +59,5 @@ app.add_api("api.yml", base_path="/health", strict_validation=True, validate_res
 
 
 if __name__ == "__main__":
+    init_scheduler()
     app.run(port=8120)
