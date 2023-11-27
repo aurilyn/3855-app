@@ -69,6 +69,13 @@ services:
       - "processing"
       - "audit"
 
+  health_check:
+    image: health_check
+    ports:
+      - "8120"
+    networks:
+      - "api.network"
+
   zookeeper:
     image: wurstmeister/zookeeper
     restart: always
