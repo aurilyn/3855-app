@@ -22,7 +22,7 @@ paths:
             application/json:
               schema:
                 items:
-                  $ref: '#/components/schema/health_check'
+                  $ref: '#/components/schemas/health_check'
 
 components:
   schemas:
