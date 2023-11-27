@@ -127,6 +127,10 @@ services:
     - "processing"
     - "audit"
     - "dashboard"
+    ports:
+      - "80:80"
+    networks:
+      - "api.network"
 volumes:
   my-db:
   processing-db:
