@@ -199,7 +199,7 @@ def process_messages():
         consumer.commit_offsets()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("api.yml", strict_validation=True, validate_responses=True)
+app.add_api("api.yml", base_path="/storage", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     t1 = Thread(target=process_messages)
