@@ -14,6 +14,7 @@ from sqlalchemy import and_
 import time
 import os
 import requests
+from logging import logger
 
 output = {
     "receiver": "",
@@ -29,10 +30,13 @@ def health_check():
     while True:
         for service in services:
             try:
+                logger.info(f"Attempting to get health check from {service}")
                 response = requests.get(f"http://benny-3855.eastus2.cloudapp.azure.com/{service}/health", timeout=5)
                 if response.status_code == 200:
                     output[service] = "running"
+                    logger.info(f"{service} is running")
                 else:
+                    logger.warning(f"{service} is down")
                     output[service] = "down"
             except:
                 output[service] = "down"
