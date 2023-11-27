@@ -28,8 +28,8 @@ services = ['receiver', 'storage', 'processing', 'audit']
 
 def health_check():
     for service in services:
+        logger.info(f"Attempting to get health check from {service}")
         try:
-            logger.info(f"Attempting to get health check from {service}")
             response = requests.get(f"http://benny-3855.eastus2.cloudapp.azure.com/{service}/health", timeout=5)
             if response.status_code == 200:
                 output[service] = "running"
