@@ -3,7 +3,9 @@ services:
   receiver:
     image: receiver
     ports:
-      - "8080:8080"
+      - "8080"
+    networks:
+      - "api.network"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -16,7 +18,9 @@ services:
   storage:
     image: storage
     ports:
-      - "8090:8090"
+      - "8090"
+    networks:
+      - "api.network"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -29,7 +33,9 @@ services:
   processing:
     image: processing
     ports:
-      - "8100:8100"
+      - "8100"
+    networks:
+      - "api.network"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -38,12 +44,13 @@ services:
       - processing-db:/data
     depends_on:
       - "storage"
-    network_mode: "host"
 
   audit:
     image: audit
     ports:
-      - "8110:8110"
+      - "8110"
+    networks:
+      - "api.network"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -55,7 +62,9 @@ services:
   dashboard:
     image: dashboard
     ports:
-      - "3000:3000"
+      - "3000"
+    networks:
+      - "api.network"
     depends_on:
       - "processing"
       - "audit"
@@ -106,7 +115,21 @@ services:
     volumes:
       - my-db:/var/lib/mysql
       - /home/azureuser/zookeeper/data:/opt/zookeeper-3.4.13/data
+  nginx:
+    image: nginx:latest
+    # Connects the conf file of the container to the conf file in our folder
+    volumes:
+    - /home/azureuser/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    # It will start up the nginx only when all api containers have started
+    depends_on:
+    - "receiver"
+    - "storage"
+    - "processing"
+    - "audit_log"
 volumes:
   my-db:
   processing-db:
+networks:
+  api.network:
+
 
