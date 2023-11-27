@@ -15,7 +15,7 @@ const HealthCheck = () => {
     }
 
     useEffect(() => {
-		const interval = setInterval(() => getStats(), 20000); // Update every 2 seconds
+		const interval = setInterval(() => getHealth(), 20000); // Update every 2 seconds
 		return() => clearInterval(interval);
     }, [getHealth]);
 
