@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 const HealthCheck = () => {
     const [healthStatus, setHealthStatus] = useState('');  // State to store health status
+    const [error, setError] = useState(null);
 
     const getHealth = () => {
         fetch(`http://benny-3855.eastus2.cloudapp.azure.com/health/health`)
@@ -23,11 +24,17 @@ const HealthCheck = () => {
     return (
         <div>
             <h2>Health Check</h2>
-            <p>Audit: {healthStatus.audit}</p>
-            <p>Last Updated: {healthStatus.last_updated}</p>
-            <p>Processing: {healthStatus.processing}</p>
-            <p>Receiver: {healthStatus.receiver}</p>
-            <p>Storage: {healthStatus.storage}</p>
+            {error ? (
+                <p>Error fetching data: {error.message}</p>
+            ) : (
+                <div>
+                    <p>Audit: {healthStatus.audit}</p>
+                    <p>Processing: {healthStatus.processing}</p>
+                    <p>Receiver: {healthStatus.receiver}</p>
+                    <p>Storage: {healthStatus.storage}</p>
+                    <p>Last Updated: {healthStatus.last_updated}</p>
+                </div>
+            )}
         </div>
     );
 };
