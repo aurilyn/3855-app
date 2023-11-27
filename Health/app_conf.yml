@@ -1,0 +1,5 @@
+version: 1
+datastore:
+  filename: health_check_output.json
+scheduler:
+  period_sec: 20
