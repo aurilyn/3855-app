@@ -13,7 +13,7 @@ paths:
       tags:
         - health check
       summary: returns health check status
-      operationId: health.heath_check()
+      operationId: health.heath_check
       description: returns a json result of all health checks on each service
       responses:
         '200':
