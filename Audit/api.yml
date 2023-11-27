@@ -88,6 +88,17 @@ paths:
                 properties:
                   message:
                     type: string  
+  /health:
+    get:
+        tags:
+          - health
+        summary: health check for service
+        description: Checks if service is running or if it's down
+        responses:
+          '200':
+            description: Service is running
+          '400':
+            description: Service is down
 components:
   schemas:
     augment:

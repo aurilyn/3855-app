@@ -45,7 +45,18 @@ paths:
           application/json:
             schema:
               $ref: '#/components/schemas/unit'
-        description: Reading champion to add     
+        description: Reading champion to add   
+  /health:
+    get:
+        tags:
+          - health
+        summary: gets info on an augment from history
+        description: Checks if service is running or if it's down
+        responses:
+          '200':
+            description: Service is running
+          '400':
+            description: Service is down  
 components:
   schemas:
     augment:
