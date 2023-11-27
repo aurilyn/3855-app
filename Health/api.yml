@@ -18,11 +18,9 @@ paths:
       responses:
         '200':
           description: Returned health check
-      requestBody:
-        content:
-          application/json:
-            schema:
-              items:
+          content:
+            application/json:
+              schema:
                 $ref: '#/components/schemas/health_check'
 
 components:

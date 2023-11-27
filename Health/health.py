@@ -40,7 +40,8 @@ def health_check():
         except:
             output[service] = "down"
     output["last_update"] = time.strftime("%Y-%m-%d %H:%M:%S")
-    save_to_json(output, "health_check_output.json")    
+    save_to_json(output, "health_check_output.json")
+    return output, 200
 
 def save_to_json(data, filename):
     with open(filename, 'w') as json_file:
