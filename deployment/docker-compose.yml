@@ -65,6 +65,9 @@ services:
       - "3000"
     networks:
       - "api.network"
+    volumes:
+      - /home/azureuser/config/audit:/config
+      - /home/azureuser/logs:/logs
     depends_on:
       - "processing"
       - "audit"
