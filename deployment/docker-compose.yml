@@ -76,7 +76,7 @@ services:
     environment:
       - TARGET_ENV=test
     volumes:
-      - /home/azureuser/config/audit:/config
+      - /home/azureuser/config/health_check:/config
       - /home/azureuser/logs:/logs
     networks:
       - "api.network"
