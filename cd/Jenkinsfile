@@ -6,7 +6,6 @@ pipeline {
             steps {
                 withCredentials([sshUserPrivateKey(credentialsId: "benny_ssh_key", keyFileVariable: 'SSH_KEY')]) {
                     sshagent(['benny_ssh_key']) {
-                        sh "ssh -o StrictHostKeyChecking=no azureuser@172.200.178.60 'cd /home/azureuser/3855-app/deployment && docker login -u bennycao06 -p $DOCKER_PASSWORD'"
                         
                         sh "ssh -o StrictHostKeyChecking=no azureuser@172.200.178.60 'cd /home/azureuser/3855-app/deployment && docker-compose pull'"
 
