@@ -11,9 +11,11 @@ pipeline {
         }
         stage('Build') {
                 steps {
-                    def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
-                    for (folder in folders) {
-                        sh 'pip install -r requirements.txt --break-system-packages'
+                    script {
+                        def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
+                        for (folder in folders) {
+                            sh 'pip install -r requirements.txt --break-system-packages'
+                        }
                     }
                 }
             }
