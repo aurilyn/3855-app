@@ -33,7 +33,7 @@ pipeline {
                     for (folder in foldersToLint) {
                         echo "Scanning ${folder}..."
                         sh "pip install pip-audit --break-system-packages"
-                        sh "pip-audit check --path=${folder}"
+                        sh "pip check --path=${folder}"
                     }
                 }
             }
