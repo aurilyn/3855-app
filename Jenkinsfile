@@ -14,7 +14,7 @@ pipeline {
                 script {
                     def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
                     
-                    sh 'pip install pylint'
+                    sh 'apt-install python3-pylint'
 
                     for (folder in foldersToLint) {
                         echo "Linting ${folder}..."
