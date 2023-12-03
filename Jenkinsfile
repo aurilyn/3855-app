@@ -9,6 +9,7 @@ pipeline {
                         for (folder in folders) {
                             echo folder
                             sh "pip install -r ${folder}/requirements.txt --break-system-packages"
+                            sh "pip install safety --break-system-packages"
                         }
                     }
                 }
@@ -32,7 +33,6 @@ pipeline {
                     
                     for (folder in foldersToLint) {
                         echo "Scanning ${folder}..."
-                        sh "pip install safety --break-system-packages"
                         sh "safety check --full-report --json --file ${folder}/requirements.txt"
                     }
                 }
