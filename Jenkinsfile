@@ -5,7 +5,6 @@ pipeline {
         stage('Checkout') {
             steps {
                 script {
-                    // Checkout the code from the repository
                     checkout scm
                 }
             }
@@ -13,17 +12,13 @@ pipeline {
         stage('Linting') {
             steps {
                 script {
-                    // Define the folders to lint
-                    def foldersToLint = ['folder1', 'folder2', 'folder3', 'folder4']
-
-                    // Install dependencies (if needed)
+                    def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
+                    
                     sh 'pip install pylint'
 
-                    // Lint each folder
                     for (folder in foldersToLint) {
                         echo "Linting ${folder}..."
-                        
-                        // Run pylint command
+                    
                         sh "pylint ${folder}"
                     }
                 }
