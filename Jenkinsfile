@@ -32,7 +32,7 @@ pipeline {
                     
                     for (folder in foldersToLint) {
                         echo "Scanning ${folder}..."
-                        sh "pip audit check --path=${folder}"
+                        sh "pip-audit check --path=${folder}"
                     }
                 }
             }
