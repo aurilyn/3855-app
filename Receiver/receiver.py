@@ -1,41 +1,40 @@
-import connexion
-from connexion import NoContent
-import requests
-import yaml
 import logging
 import logging.config
 import uuid
 import datetime
 import json
 import time
-from pykafka import KafkaClient
 import os
+import connexion
+from connexion import NoContent
+import requests
+import yaml
+from pykafka import KafkaClient
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
-    app_conf_file = "/config/app_conf.yml"
-    log_conf_file = "/config/log_conf.yml"
+    APP_CONF_FILE = "/config/app_conf.yml"
+    LOG_CONF_FILE = "/config/log_conf.yml"
 else:
     print("In Dev Environment")
-    app_conf_file = "app_conf.yml"
-    log_conf_file = "log_conf.yml"
+    APP_CONF_FILE = "app_conf.yml"
+    LOG_CONF_FILE = "log_conf.yml"
 
-with open(app_conf_file, 'r') as f:
+with open(APP_CONF_FILE, 'r') as f:
     app_config = yaml.safe_load(f.read())
 
 # External Logging Configuration
-with open(log_conf_file, 'r') as f:
+with open(LOG_CONF_FILE, 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
 
-logger.info("App Conf File: %s" % app_conf_file)
-logger.info("Log Conf File: %s" % log_conf_file)
+logger.info("App Conf File: %s", APP_CONF_FILE)
+logger.info("Log Conf File: %s", LOG_CONF_FILE)
 
 headers = {"Content-Type": 'application/json; charset=utf-8'}
-hostname = "%s:%d" % (app_config['events']['hostname'], app_config['events']['port'])    
-
+hostname = "%s:%d" % (app_config['events']['hostname'], app_config['events']['port'])
 max_retries = 100
 current_retries = 0
 while current_retries < max_retries:
@@ -54,8 +53,7 @@ while current_retries < max_retries:
 def post_augment_stats(body):
     body["trace_id"] = str(uuid.uuid4())
     
-    logger.info(f"Created with the following trace id: {body['trace_id']}")
-    
+    logger.info(f"Created with the following trace id: {body['trace_id']}")    
     msg = { "type": "augment",
             "datetime":
                 datetime.datetime.now().strftime(
@@ -63,18 +61,12 @@ def post_augment_stats(body):
             "payload": body }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
-
     logger.info(f"{body['trace_id']} received")
-
-
     return NoContent, 201
 
 def post_units(body):
-
     body['trace_id'] = str(uuid.uuid4())
-
     logger.info(f"Created with the following trace id: {body['trace_id']}")
-
     msg = { "type": "unit",
             "datetime":
                 datetime.datetime.now().strftime(
@@ -82,9 +74,7 @@ def post_units(body):
             "payload": body }
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
-
     logger.info(f"{body['trace_id']} received")
-
     return NoContent, 201
  
 def health():
