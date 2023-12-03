@@ -30,7 +30,7 @@ pipeline {
             steps {
                 script {
                     def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
-                    for folder in folders {
+                    for (folder in folders) {
                         withCredentials([string(credentialsId: 'DockerHub', variable: 'TOKEN')]) {
                             sh "docker login -u 'bennycao06' -p '$TOKEN' docker.io"
                             sh "docker build -t ${folder}:latest --tag bennycao06/${folder}:${folder} ."
