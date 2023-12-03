@@ -1,7 +1,7 @@
 version: '3'
 services:
   receiver:
-    image: bennycao06/receiver:latest
+    image: bennycao06/receiver
     ports:
       - "8080"
     networks:
@@ -16,7 +16,7 @@ services:
     
 
   storage:
-    image: bennycao06/storage:latest
+    image: bennycao06/storage
     ports:
       - "8090"
     networks:
@@ -31,7 +31,7 @@ services:
       - "db"
 
   processing:
-    image: bennycao06/processing:latest
+    image: bennycao06/processing
     ports:
       - "8100"
     networks:
@@ -46,7 +46,7 @@ services:
       - "storage"
 
   audit:
-    image: bennycao06/audit:latest
+    image: bennycao06/audit
     ports:
       - "8110"
     networks:
