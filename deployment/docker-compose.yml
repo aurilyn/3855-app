@@ -60,7 +60,7 @@ services:
       - "kafka"
 
   dashboard:
-    image: dashboard
+    image: bennycao06/dashboard
     ports:
       - "3000"
     networks:
@@ -70,7 +70,7 @@ services:
       - "audit"
 
   health_check:
-    image: health_check
+    image: bennycao06/health_check
     ports:
       - "8120"
     environment:
