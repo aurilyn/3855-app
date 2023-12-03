@@ -6,7 +6,7 @@ pipeline {
             steps {
                 withCredentials([sshUserPrivateKey(credentialsId: "benny_ssh_key", keyFileVariable: 'SSH_KEY')]) {
                     sshagent(['benny_ssh_key']) {
-                        sh "ssh azureuser@172.200.178.60"
+                        sh "ssh -o StrictHostKeyChecking=no azureuser@172.200.178.60"
                         sh "cd 3855-app/deployment"
                         sh "docker compose up -d"
                     }
