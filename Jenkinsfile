@@ -28,11 +28,11 @@ pipeline {
         stage('Security') {
             steps {
                 script {
-                    sh "pip install pip-audit --break-system-packages"
                     def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
                     
                     for (folder in foldersToLint) {
                         echo "Scanning ${folder}..."
+                        sh "pip install pip-audit --break-system-packages"
                         sh "pip-audit check --path=${folder}"
                     }
                 }
