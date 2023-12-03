@@ -25,5 +25,17 @@ pipeline {
                 }
             }
         }
+        stage('Security') {
+            steps {
+                script {
+                    def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
+                    
+                    for (folder in foldersToLint) {
+                        echo "Scanning ${folder}..."
+                        sh "pip audit check --path=${folder}"
+                    }
+                }
+            }
+        }
     }
 }
