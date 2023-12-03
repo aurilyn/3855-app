@@ -35,7 +35,7 @@ pipeline {
                         withCredentials([string(credentialsId: 'DockerHub', variable: 'TOKEN')]) {
                             sh "docker login -u 'bennycao06' -p '$TOKEN' docker.io"
                             sh "docker build -t ${repo}:latest --tag bennycao06/${repo}:latest ./${folder}"
-                            sh "docker push bennycao06/${folder}:latest"
+                            sh "docker push bennycao06/${repo}:latest"
                         }
                     }
                 }
