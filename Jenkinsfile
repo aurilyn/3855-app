@@ -29,7 +29,6 @@ pipeline {
         stage('Package') {
             steps {
                 script {
-                    sh "chmod 777 /var/run/docker.sock"
                     def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
                     for (folder in folders) {
                         withCredentials([string(credentialsId: 'DockerHub', variable: 'TOKEN')]) {
