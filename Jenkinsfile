@@ -26,17 +26,19 @@ pipeline {
                 }
             }
         }
-        stage('Security') {
+        stage('Package') {
             steps {
                 script {
-                    def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
-                    
-                    for (folder in foldersToLint) {
-                        echo "Scanning ${folder}..."
-                        sh "pip-audit -r ${folder}/requirements.txt"
+                    def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
+                    for folder in folders {
+                        withCredentials([string(credentialsId: 'DockerHub', variable: 'TOKEN')]) {
+                            sh "docker login -u 'bennycao06' -p '$TOKEN' docker.io"
+                            sh "docker build -t ${folder}:latest --tag bennycao06/${folder}:${folder} ."
+                            sh "docker push bennycao06/${folder}:${folder}"
+                        }
                     }
                 }
-            }
+            }   
         }
     }
 }
