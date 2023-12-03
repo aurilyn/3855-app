@@ -16,7 +16,8 @@ pipeline {
                     
                     sh 'apt get update'
                     sh 'apt get upgrade'
-                    sh 'apt install python3-pylint'
+                    sh 'apt install python3-pip'
+                    sh 'pip install pylint'
                     for (folder in foldersToLint) {
                         echo "Linting ${folder}..."
                     
