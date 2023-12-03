@@ -41,5 +41,13 @@ pipeline {
                 }
             }   
         }
+        stage('Deploy') {
+            steps {
+                sshagent(credentials : ['9b469d5e-6263-4a41-b9a7-110010946377']) {
+                    sh 'ssh -o StrictHostKeyChecking=no user@hostname.com uptime'
+                    sh 'ssh -v azureuser@3855-benny'
+                }
+            }
+        }
     }
 }
