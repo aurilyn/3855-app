@@ -14,7 +14,6 @@ pipeline {
                     def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
                     for (folder in folders) {
                         sh 'pip install -r requirements.txt --break-system-packages'
-                        sh 'pip install --upgrade flask --break-system-packages'
                     }
                 }
             }
