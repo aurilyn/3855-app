@@ -7,7 +7,7 @@ pipeline {
                     script {
                         def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
                         for (folder in folders) {
-                            echo ${folder}
+                            echo folder
                             sh 'pip install -r ${folder}/requirements.txt --break-system-packages'
                         }
                     }
