@@ -2,19 +2,12 @@ pipeline {
     agent any
     
     stages {
-        stage('Checkout') {
-            steps {
-                script {
-                    checkout scm
-                }
-            }
-        }
         stage('Build') {
                 steps {
                     script {
                         def folders = ['Audit', 'Receiver', 'Storage', 'Processing']
                         for (folder in folders) {
-                            sh 'pip install -r requirements.txt --break-system-packages'
+                            sh 'pip install -r ${folder}/requirements.txt --break-system-packages'
                         }
                     }
                 }
