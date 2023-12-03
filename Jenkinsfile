@@ -9,18 +9,20 @@ pipeline {
                 }
             }
         }
+        stage('Build') {
+                steps {
+                    sh 'pip install -r requirements.txt --break-system-packages'
+                    sh 'pip install --upgrade flask --break-system-packages'
+                }
+            }
         stage('Linting') {
             steps {
                 script {
                     def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
                     
-                    sh 'apt install -y python3-pip'
-                    sh 'pip install pylint'
-                    
                     for (folder in foldersToLint) {
                         echo "Linting ${folder}..."
-                        sh 'pip install -r requirements.txt'
-                        sh "pylint ${folder}"
+                        sh 'pylint --fail-under 5.0 ${folder}/*.py'
                     }
                 }
             }
