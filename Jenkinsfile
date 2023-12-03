@@ -28,6 +28,7 @@ pipeline {
         stage('Security') {
             steps {
                 script {
+                    sh "pip install pip-audit"
                     def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
                     
                     for (folder in foldersToLint) {
