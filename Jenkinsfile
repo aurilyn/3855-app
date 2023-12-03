@@ -28,7 +28,7 @@ pipeline {
         stage('Security') {
             steps {
                 script {
-                    sh "pip install pip-audit"
+                    sh "pip install pip-audit --break-system-packages"
                     def foldersToLint = ['Audit', 'Receiver', 'Storage', 'Processing']
                     
                     for (folder in foldersToLint) {
