@@ -37,7 +37,7 @@ with open(log_conf_file, 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
-services = ['receiver', 'storage', 'processing', 'audit']
+services = app_config['eventstore']
 
 def health_check():
     for service in services:

@@ -3,3 +3,8 @@ datastore:
   filename: health_check_output.json
 scheduler:
   period_sec: 20
+eventstore:
+  receiver:
+  storage: 
+  audit:
+  processing:
